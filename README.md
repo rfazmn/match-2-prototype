@@ -1,13 +1,10 @@
 # match-2-prototype
 Unity match-2 (aka blast) game prototype
 
--Target resolution: 1080x1920
-
--Cells in the grid can be changed to the target type via "grid controller"(you have to lock "grid controller" and select the cells you want to change in the scene)
-
--Grid can be created dynamically via "grid controller"
-
--Goals can be created dynamically via "goal handler"
+-Target resolution: 1080x1920\n
+-Cells in the grid can be changed to the target type via "grid controller"(you have to lock "grid controller" and select the cells you want to change in the scene)\n
+-Grid can be created dynamically via "grid controller"\n
+-Goals can be created dynamically via "goal handler"\n
 
 
 ![showcase](https://github.com/rfazmn/match-2-prototype/assets/32778959/c67a0509-b5ef-44e9-b726-c07117289e33)
