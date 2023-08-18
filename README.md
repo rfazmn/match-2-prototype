@@ -6,7 +6,7 @@ Grid can be created dynamically via "grid controller"
 Goals can be created dynamically via "goal handler"
 
 
-[showcase](https://github.com/rfazmn/match-2-prototype/assets/32778959/c67a0509-b5ef-44e9-b726-c07117289e33)
+![showcase](https://github.com/rfazmn/match-2-prototype/assets/32778959/c67a0509-b5ef-44e9-b726-c07117289e33)
 
 Json save load system for pre-built grid and goals
 
