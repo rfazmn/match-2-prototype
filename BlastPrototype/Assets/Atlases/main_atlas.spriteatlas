@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: main_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 939a6d5ab677d5143bcbff02a0864a8b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1d5a8f21a7635b54f9945f0fa2f80e04, type: 3}
+  - {fileID: 21300000, guid: bd10ed6217fb2ec4e9a2428d9ffd8eca, type: 3}
+  - {fileID: 21300000, guid: 0f562b72e5a29eb4590695aee12f569f, type: 3}
+  - {fileID: 21300000, guid: 3e0af9b619f75a546aacfc8c3193fc74, type: 3}
+  - {fileID: 21300000, guid: 891cd16738445d246b11d1014e662cf6, type: 3}
+  - {fileID: 21300000, guid: 804d2f79cf5f60b469accdf67d317986, type: 3}
+  - {fileID: 21300000, guid: cb2c78b9146e28841b537fc75aecea53, type: 3}
+  - {fileID: 21300000, guid: 3f49787a802552449802c8b02a966f86, type: 3}
+  - {fileID: 21300000, guid: 6d8047bc662ed3e4b8a2365ffa54f2fb, type: 3}
+  - {fileID: 21300000, guid: 3801e0dca5f3847408f8cb9433a70f96, type: 3}
+  - {fileID: 21300000, guid: 3c04b77dc8f8ed24bbac6aa38777ac19, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - candy_2
+  - candy_3
+  - candy_4
+  - grid_bg
+  - bottom_bg
+  - cubeParticle_1
+  - game_bg
+  - text_bg
+  - cubeParticle_2
+  - candy_0
+  - candy_1
+  m_RenderDataMap: {}
+  m_Tag: main_atlas
+  m_IsVariant: 0
