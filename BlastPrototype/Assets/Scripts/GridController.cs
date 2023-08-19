@@ -130,7 +130,7 @@ public class GridController : Singleton<GridController>
         gridCellCounter++;
         if (gridCellCounter == grid.Length)
         {
-            UpdateCellsNeighbours(true);
+            UpdateCellsNeighbours();
         }
     }
 
@@ -248,7 +248,7 @@ public class GridController : Singleton<GridController>
         neighbour.SetNeighbours(neighbours);
     }
 
-    public void UpdateCellsNeighbours(bool init = false)
+    public void UpdateCellsNeighbours()
     {
         for (int x = 0; x < gridSize.x; x++)
         {
@@ -260,11 +260,6 @@ public class GridController : Singleton<GridController>
                 }
             }
         }
-
-        if (init)
-            return;
-
-        
     }
     #endregion
 
